@@ -118,7 +118,7 @@ superstore-sales-eda/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/superstore-sales-eda.git
+git clone https://github.com/Raunak22-Dev/Superstore-Sales-Analysis.git
 cd superstore-sales-eda
 
 # 2. Install dependencies
